@@ -46,7 +46,7 @@
     "express": "^4.12.4",
     "jade": "^1.10.0",
     "mocha": "^2.2.5",
-    "unexpected": "9.5.0",
+    "unexpected": "9.16.1",
     "unexpected-express": "7.7.0"
   },
   "dependencies": {
